@@ -1,3 +1,3 @@
 x = int(input())
-y = 3.14*x**2
-print(y)
+a = 3.14*x**2
+print("{:.2f}".format(a))
